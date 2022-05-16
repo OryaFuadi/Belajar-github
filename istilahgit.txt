@@ -1,4 +1,4 @@
 Istilah yang dipakai dalam git dan github
 - Repository/repo = adalah folder dalam istilah git 
 - commit = adalah pembaruan yang dilakukan pada file 
-
+- branch = adlah cabang pada main branch yang dimana berisi seperti source code cadangan
